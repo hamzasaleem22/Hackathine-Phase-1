@@ -4,7 +4,7 @@ A university-level educational platform covering Physical AI and Humanoid Roboti
 
 ## 📖 Live Book
 
-**[https://msaleemakhtar.github.io/hackathine_1/](https://msaleemakhtar.github.io/hackathine_1/)**
+**[https://intellistack-app.netlify.app/](https://intellistack-app.netlify.app/)**
 
 ---
 
