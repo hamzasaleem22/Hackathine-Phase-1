@@ -1,6 +1,7 @@
 # Physical AI & Humanoid Robotics — Interactive Textbook Platform
 
 A university-level educational platform covering Physical AI and Humanoid Robotics, featuring an interactive textbook built with Docusaurus and a RAG-powered chatbot for intelligent Q&A over course content.
+<img width="1905" height="838" alt="Screenshot From 2026-04-26 20-42-30" src="https://github.com/user-attachments/assets/ad774acd-0fd7-4b11-a9e0-9627709aba4a" />
 
 ## 📖 Live Book
 
